@@ -1,5 +1,5 @@
 Param(
-    [string]$RemoteUrl = "https://github.com/shanucs27/Daily-Dsa-Problem.git",
+    [string]$RemoteUrl = "https://github.com/shanucs27/DSA-BOOTCAMP.git",
     [string]$UserName = "",
     [string]$UserEmail = ""
 )
