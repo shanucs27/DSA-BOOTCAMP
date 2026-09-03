@@ -1,6 +1,6 @@
 # DSA Bootcamp - Day-wise Questions
 
-This repository contains my solutions and practice notes from the **Data Structures and Algorithms (DSA) Bootcamp conducted by Prymide Consultancy**.
+This repository contains my solutions and practice notes from the **Data Structures and Algorithms (DSA) Bootcamp conducted by Pyramid Consultancy**.
 
 The problems are organized day-wise and are mainly sourced from **LeetCode**. This repository is created for learning, revision, regular practice, and interview preparation.
 
